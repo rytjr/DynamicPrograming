@@ -1,0 +1,2 @@
+module ElectronicWire {
+}
